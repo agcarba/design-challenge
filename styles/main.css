@@ -2,6 +2,9 @@
   margin-top: 175px;
 }
 
+body {
+  background-color: lightgray;
+}
 h1 {
   display: block;
   text-align: center;
@@ -15,4 +18,31 @@ input {
 .buttons {
   text-align: center;
   padding-top: 35px;
+}
+
+.personal_bar {
+  height: 20px;
+  width: 100%;
+  background-color: black;
+}
+
+.nav_bar {
+  height: 100px;
+  width: 100%;
+  background-color: white;
+  padding-bottom: 1px;
+}
+
+.tile_row {
+  width: 100%;
+}
+
+img.large_ad_tile {
+    width: 100%;
+
+}
+
+img.small_ad_tile {
+    display: inline;
+    width: 32%;
 }
