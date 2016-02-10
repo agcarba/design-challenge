@@ -1,0 +1,119 @@
+<!-- Adrian Carballeira DocNetwork Challenge -->
+<!-- HTML code -->
+
+
+<!DOCTYPE html>
+<html>
+
+	<head>
+		<link type ="text/css" rel="stylesheet" href="file:///Users/Carballeira/Documents/DocNetwork%20stylesheet"/>
+		<title>DocNetwork.org</title>
+	</head>
+
+	<body>
+		<div class="aParent">
+			<div>
+				<a href="http://www.docnetwork.org"><img src="http://www.docnetwork.org/wp-content/themes/docnetwork/assets/img/docnetwork_logo.png" width="20%"/></a>
+
+				<p style="font-family:sans-serif">Electronic Health Records for Camps, Child Care and Schools </p>
+			</div>
+
+			<div id="right">
+			
+				<ul>
+					<li><a href="http://www.docnetwork.org">Home</a></li>
+					<li><a href="www.docnetwork.org/careers">Careers</a></li>
+					<li><a href="www.docnetwork.org/contact-us">Contact</a><li>
+				</ul>
+
+			</div>
+		</div>
+
+		<div>
+			<hr>
+			<!-- horizontal separation line -->
+		</div>
+
+
+
+
+		<ul class="flex-container">
+		
+			<li class="flex-item"><a href="www.campdoc.com"><img src="http://www.docnetwork.org/wp-content/themes/docnetwork/assets/img/campdoc_toon.png" width="300" /></a></li>
+
+			<li class="flex-item"><a href="www.childcaredoc.com"><img src="http://www.docnetwork.org/wp-content/themes/docnetwork/assets/img/childcaredoc_toon_short.png"  width="300"/></a></li>
+
+			<li class="flex-item"><a href="www.schooldoc.com"><img src="http://www.docnetwork.org/wp-content/themes/docnetwork/assets/img/schooldoc_toon.png" width="300" /></a></li>
+
+		</ul>
+
+		<ul class="flex-container">
+
+			<li class="flex-item"><a href="www.campdoc.com"><img src="http://www.docnetwork.org/wp-content/themes/docnetwork/assets/img/campdoc_logo.png" width="300" /></a></li>
+
+
+			<li class="flex-item"><a href="www.childcaredoc.com"><img src="http://www.docnetwork.org/wp-content/themes/docnetwork/assets/img/childcaredoc_logo.png" width="300" /></a></li>
+
+
+
+			<li class="flex-item"><a href="www.schooldoc.com"><img src="http://www.docnetwork.org/wp-content/themes/docnetwork/assets/img/schooldoc_logo.png" width="300" /></a></li>
+
+		</div>
+
+
+
+		<table id="main" >
+
+			<tr>
+
+				<td width="70%">
+					<img src="http://www.docnetwork.org/wp-content/themes/docnetwork/assets/img/docnetwork_logo_white_small.png" width="20%"/>
+		
+					<p> DocNetwork.org is a leading electronic health record system for camps, child care and schools. Our secure, easy-to-use web-based solution helps camps manage health forms, allergies/medications and health logging. </p>
+				</td>
+
+				<td width="30%">
+
+					<p>Latest Tweets</p>
+
+					<img src="https://newhatbaking.com/wp-content/uploads/2014/11/twitter.png"/>
+
+				</td>
+
+			</tr>
+		</table>
+
+			
+		<table id="footer">
+			<tr>
+				<td>
+					<h4><a href="https://www.facebook.com/docnetwork"><img src="http://www.durhamwt.com/core_images/grey-facebook-icon.png" height="30" width="30"/></a>
+
+					<a href="https://www.twitter.com/docnetwork"><img src="https://newhatbaking.com/wp-content/uploads/2014/11/twitter.png" height="30" width="30"/></a>
+
+					<a href="https://www.pinterest.com/docnetwork/"><img src="http://4.bp.blogspot.com/-xZ2Fl-9mj_0/UV6CzMwZPKI/AAAAAAAADI4/IgmGUupVUfs/s1600/pinterest+icon+grey-64x64.png" height="30" width="30"> </a>	
+
+					<a href="https://www.linkedin.com/company/docnetwork"><img src="http://arisdesign.co.uk/files/2913/7648/0187/Linkedin_grey-icon.png" height="30" width="30"/></a></h4>
+
+					<p>Copyright 2016. <a href="https://www.docnetwork.org">DocNetwork LLC.</a> All Rights Reserved.</p>
+
+				</td>
+			
+				<td>
+					<a href="http://www.docnetwork.org">Home</a>
+
+					<a href="http://www.docnetwork.org/Privacy">Privacy</a>
+
+					<a href="http://www.docnetwork.org/security">Security</a>
+
+					<a href="http://www.docnetwork.org/terms-of-use">Terms of Use</a>
+
+					<a href="http://www.docnetwork.org/contact-us">Contact Us </a>
+				
+					<p> 526 S Maple Rd, Ann Arbor, Michigan 48103 - Phone 734.636.1000 </p>
+
+				</td>
+			</tr>
+		</table>
+	</body>
+</html>
