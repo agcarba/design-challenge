@@ -1,0 +1,111 @@
+/* Adrian Carballeira DocNetwork Challenge */
+/* CSS stylesheet */
+
+
+
+/* set font for whole page */
+
+* {
+	font-family: sans-serif;
+}
+
+/* get 3 links at top to display horizontally */
+
+div ul li {
+	display: inline;
+}
+
+body div ul a {
+	text-decoration: none;
+	float: left;
+	display: inline;
+	padding: 10px;
+	font-family: sans-serif;
+	color: grey;
+}
+
+/* get 3 links at top right to have the hover underline */
+
+body > div > div > ul a:hover {
+	text-decoration: underline;
+}
+
+/* Get top left title to be in correct position */
+
+.aParent div {
+	float: left;
+	clear: none;
+}
+
+div {
+	clear:both;
+}
+
+table tr td {
+	width: 25%;
+}
+
+/* the flex container and flex item govern the display of the 3 docnetwork sites */
+
+.flex-container {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-flow: row wrap;
+  */justify-content: space-around;*/
+}
+
+.flex-item {
+ /* padding: 10px;
+  width: 200px;
+  height: 300px;
+  margin-top: 10px;
+  line-height: 150px;*/
+  color: white;
+  /*font-weight: bold;
+  font-size: 3em;*/
+  text-align: center;
+}
+
+/* "main" is the 2nd from last section, containing the paragraph summary of the company */ 
+
+#main {
+	background-color: #333333;
+	color: white;
+	font-family: sans-serif;
+	padding: 20px 20px 20px 20px; 
+	font-size: 14px;
+}
+
+/* "footer" is the last section containing contact info */
+
+#footer {
+	background-color: #262626;
+	color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
