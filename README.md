@@ -60,9 +60,11 @@ Well don't whine about it! We're looking for software developers who have varied
 
 ## Solution Discussion
 **Answer these questions before submitting your pull request!**
-- Why did you choose the website you did?
- - // answer here
-- What challenges did you face while building your site?
-  - // answer here
-- What would you do differently next time?
-  - // answer here
+Why did you choose the website you did?
+  I chose www.docnetworks.com because it looked like it would be challenging without biting off more than I could chew. It has a relatively simple layout without any pop-out menus or images that float around and change by themselves over time; however, it has images and links and a layout that would require organization and knowledge of how to organize and structure webpages. Having to approximate the font, background colors, insert linked images, and have the several sections of the webpage organized in the correct way seemed challenging without being overwhelming. Of course, I did not choose this webpage without some desire to suck-up, but overall it did seem like a good medium between simple and challenging, so that I could demonstrate my knoweldge of HTML/CSS at an achievable level of difficulty.
+  
+What challenges did you face while building your site?
+  I did not really know any HTML or CSS when I began this challenge. I have experience with computer programming, but little with web development. I began this project by going through the Codecademy course on HTML and CSS, then when I felt ready I began to actually design the webpage. So challenges faced included learning a significant amount of HTML and CSS, figuring out how to extrapolate what I learned from Codecademy and from extensive Google searches to be able to structure my code to get the webpage I was aiming for. At this point my webpage functions correctly, insofar as the links go to the right places, it contains the correct images, and all the information is complete and accurate. However I find it to be much less aesthetically pleasing, as the font isn't quite right, the images aren't centered in the same exact way, the webpage takes up the entire screen instead of being confined to one box, and the page displays correctly on Chrome but not Firefox. Also my knowledge of the use of div's, spans, id's and classes is incomplete, and I did not have enough time to learn them fully, so that some of my HTML code may be seen as inappropriate (using a table instead of a div, for example). However, with the time constraint, I am proud of my ability to have learnt a significant amount of HTML and CSS and to have been able to put together this webpage successfully. The code may not be perfect, but it works.
+  
+What would you do differently next time?
+  Next time I will have had all this experience already under my belt, so that I would start the development with a deeper understanding of HTML and CSS. However next time I would want to produce HTML that functions in a more sophisticated manner.
